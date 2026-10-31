@@ -19,10 +19,11 @@
 | Versión | Fecha | Ticket | Descripción | Responsable |
 |---------|-------|--------|-------------|-------------|
 | v1.0 | (línea base) | - | Versión inicial | Alanwalker005 |
-| v1.1 | (en desarrollo) | #101 | Validación de teléfono | Alanwalker005 |
+| v1.1 | 31/10/2026 | #101 | Validación de teléfono | Alanwalker005 |
 
-## Cambio planificado: v1.1
+## Cambio realizado: v1.1
 
 - **Ticket:** #101 (Issue #1 de GitHub) - Validar formato de teléfono.
-- **Rama:** `fix-validacion-telefono`.
+- **Rama:** `fix-validacion-telefono` (integrada a `main` con el Pull Request #2).
 - **ECS modificados:** `src/script.js`, `tests/test_validacion.js`, `docs/manual_usuario.md`, `docs/manual_tecnico.md`, `docs/plan_pruebas.md`, `docs/registro_cambios.md`.
+- **Estado:** liberada (tag `v1.1` y Release en GitHub).
